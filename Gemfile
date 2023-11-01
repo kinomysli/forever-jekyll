@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "webrick"
   gem "jekyll-github-metadata"
+  gem 'jekyll-theme-tufte', '~> 0.3.0'
 end
