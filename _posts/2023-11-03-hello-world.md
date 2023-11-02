@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hello World
+title: Ulotne myśli, ulotne szczęście
 categories: [content, demo]
 image: /assets/image/dogadzacz.PNG
 ---
+
+Szczęście - czym jest i czego nam potrzeba żeby je osiągnąć. W tym poście zajmiemy się próbą odpowiedzi na to i inne pytania dotyczące tego ulotnego stanu.
 
 ## Czego do szczęścia potrzeba człowiekowi dużego formatu, czyli omówienie odcinka "Dogadzacz"
 
