@@ -87,7 +87,7 @@ sass:
   sass_dir: _sass
   style: :expanded # You might prefer to minify using :compressed
 
-theme: minimal
+# theme: minimal
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
