@@ -87,7 +87,7 @@ sass:
   sass_dir: _sass
   style: :expanded # You might prefer to minify using :compressed
 
-remote_theme: jekyll-theme-tufte
+remote_theme: sdruskat/tufte-css-jekyll
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
